@@ -1,6 +1,6 @@
 # Hey, I'm Phelyppe Alex!
 
-#### I'm from Brasil 🇧🇷
+#### I'mdev Jr and I'm from Brasil 🇧🇷
 
 ## Languages & tools
 
