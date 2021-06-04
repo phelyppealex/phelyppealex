@@ -1,6 +1,6 @@
 # Hey, I'm Phelyppe Alex!
 
-- Brazilian 🇧🇷
+- Brazilian, 19 years old 🇧🇷
 - Dev Jr 🧑🏾‍💻
 - Computer Technician 3/4 👨🏾‍🎓
 
