@@ -1,6 +1,8 @@
 # Hey, I'm Phelyppe Alex!
 
-#### I'm dev Jr and I'm from Brasil 🇧🇷
+- Dev Jr 🧑🏾‍💻
+- Brazilian 🇧🇷
+- Computer Technician 3/4
 
 ## Languages & tools
 
