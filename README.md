@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" heigth="40">
 </span>
 <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" heigth="40">
+    <img src="https://img.icons8.com/fluent/2x/4a90e2/visual-studio-code-2019.png" width="40" heigth="40">
 </span>
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" heigth="40">
