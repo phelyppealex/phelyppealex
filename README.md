@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/android/2x/facebook.png" width="30" heigth="30">
 </a>
 
-## Languages & tools
+## Languages & tools:
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" heigth="40">
 </span>
