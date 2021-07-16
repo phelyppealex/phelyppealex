@@ -45,6 +45,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" heigth="40">
 </span>
 
+<br/><br/>
+
 <table align='center'>
   <row>
     <td>
