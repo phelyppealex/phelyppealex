@@ -44,6 +44,17 @@
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" heigth="40">
 </span>
+
+<table align='center'>
+  <row>
+    <td>
+      <img height='172' src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelyppealex&theme=default&layout=compact&hide_border=true">
+    </td>
+    <td>
+      <img height='172' src="https://github-readme-stats.vercel.app/api?username=phelyppealex&show_icons=true&hide_border=true">
+    </td>
+  </row>
+</table>
 <!--
 **phelyppealex/phelyppealex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
