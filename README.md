@@ -8,8 +8,8 @@
 
 <div style='display: inline-block'><br>
   <a href="https://github.com/phelyppealex/">
-    <img height='172' width='345' src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelyppealex&theme=dark&layout=compact&hide_border=true" style="max-width: 100%">
-    <img height='172' width='345' src="https://github-readme-stats.vercel.app/api?username=phelyppealex&theme=dark&show_icons=true&hide_border=true" style="max-width: 100%">
+    <img height='172' width='360' src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelyppealex&theme=dark&layout=compact&hide_border=true" style="max-width: 100%">
+    <img height='172' width='360' src="https://github-readme-stats.vercel.app/api?username=phelyppealex&theme=dark&show_icons=true&hide_border=true" style="max-width: 100%">
   </a>
 </div>
 
