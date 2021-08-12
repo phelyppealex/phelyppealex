@@ -4,10 +4,10 @@
 - 💻 Dev Jr
 - 👨🏾‍🎓 Computer Technician 3/4
 
-<div><br>
+<div style='display: inline-block;'><br>
   <a href="https://github.com/phelyppealex/">
-    <img height='172' style='width: 50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelyppealex&theme=dark&layout=compact&hide_border=true">
-    <img height='172' style='width: 50%' src="https://github-readme-stats.vercel.app/api?username=phelyppealex&theme=dark&show_icons=true&hide_border=true">
+    <img height='172' src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelyppealex&theme=dark&layout=compact&hide_border=true">
+    <img height='172' src="https://github-readme-stats.vercel.app/api?username=phelyppealex&theme=dark&show_icons=true&hide_border=true">
   </a>
 </div>
 
