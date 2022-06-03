@@ -19,6 +19,7 @@
   <img alt="PH-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" heigth="40">
   <img alt="PH-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" heigth="40">
   <img alt="PH-Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" heigth="40">
+  <img alt="PH-Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" heigth="40">
 </div>
 
 <div><br>
