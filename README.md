@@ -25,7 +25,7 @@
   <a href="mailto:phelyppesilva@gmail.com?Subject=Título%20da%20mensagem">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/phelyppe_alex7/">
+  <a href="https://www.instagram.com/phelyppealex/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5584994855944&text=Oi">
