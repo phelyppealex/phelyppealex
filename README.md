@@ -2,7 +2,7 @@
 
 - 🇧🇷 Brazilian, 20 years old
 - 👨🏾‍🎓 Computer Technician
-- :computer: Analysis and systems development 1/6
+- :computer: Analysis and systems development 2/6
 
 ##
 
