@@ -1,6 +1,6 @@
 ## Hey, I'm Phelyppe Alex!
 
-- 🇧🇷 Brazilian, 20 years old
+- 🇧🇷 Brazilian, 21 years old
 - 👨🏾‍🎓 Computer Technician
 - :computer: Analysis and systems development 2/6
 
